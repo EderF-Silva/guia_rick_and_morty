@@ -1,16 +1,21 @@
-# guia_rick_and_morty
+# Guia Rick and Morty
 
-A new Flutter project.
+> Projeto desenvolvido como parte da Pós-Graduação na **PUC Minas** – Plataformas Híbridas - Flutter.
 
-## Getting Started
+## 📱 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Tela inicial com informações sobre o app e navegação para as principais seções.
+- Listagem paginada de personagens, exibindo nome e imagem.
+- Tela de detalhes do personagem com informações completas, como status, espécie, gênero, origem e localização atual.
+- Adicionar e remover personagens da lista de favoritos, com persistência local usando shared_preferences.
+- Listagem de locais do universo Rick and Morty com nome e tipo.
+- Visualização dos residentes de cada local, com acesso rápido para detalhes dos personagens.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: Framework para desenvolvimento de aplicativos multiplataforma.
+- **Dart**: Linguagem de programação utilizada pelo Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🧑‍💻 Autor
+Desenvolvido por **Eder Silva.**  
